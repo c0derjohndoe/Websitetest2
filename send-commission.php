@@ -10,7 +10,7 @@ $recipient_email = "coderjohndoe63841@gmail.com"; // Your email where you want t
 $smtp_host = "smtp.gmail.com"; // SMTP server (Gmail example)
 $smtp_port = 587; // SMTP port (587 for TLS, 465 for SSL)
 $smtp_username = "coderjohndoe63841@gmail.com"; // Your SMTP username (usually your email)
-$smtp_password = "bfus dmat bldg nhdj"; // Your SMTP password or app-specific password
+$smtp_password = "tklc hxse mfog bdpl"; // Your SMTP password or app-specific password
 $from_email = "noreply@masterfulmagic.com"; // From email address
 $from_name = "Masterful Magic Website"; // From name
 // ===============================================
