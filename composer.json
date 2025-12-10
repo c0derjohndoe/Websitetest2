@@ -1,0 +1,21 @@
+{
+    "name": "masterful-magic/moodboard-commission-site",
+    "description": "Masterful Magic - Custom Moodboards & Themes Commission Website",
+    "type": "project",
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Masterful Magic",
+            "email": "contact@masterfulmagic.com"
+        }
+    ],
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
+}
