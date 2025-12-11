@@ -6,7 +6,7 @@ ini_set('display_errors', 1);
 header('Content-Type: application/json');
 
 // ===== YOUR CONFIGURATION =====
-$to_email = "your-email@example.com"; // YOUR email address
+$to_email = "coderjohndoe63841@gmail.com"; // YOUR email address
 $from_name = "Masterful Magic Website";
 // ===============================
 
